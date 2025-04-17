@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+
+@theme {
+    --color-blue-main:hsl(217, 54%, 11%);
+    --color-blue-card:hsl(216, 50%, 16%);
+    --color-blue-line:hsl(215, 32%, 27%);
+    --color-white:hsl(0, 0%, 100%);
+    --color-soft-blue: hsl(215, 51%, 70%);
+    --color-cyan:hsl(178, 100%, 50%);
+    
+}
+
+
+* {
+    font-family:outfit;
+    font-size:18px;
+}
